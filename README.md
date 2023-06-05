@@ -44,7 +44,7 @@ This is a display of sample projects I made using HTML and CSS
 
 
 - <h4> I’m looking to collaborate on all my projects
--  I can be reached at Bradley.Painter@my-aolcc.com</h4>
+-  I can be reached at bradpainterwebdev@gmailcom</h4>
 
 <!---
 CAPNBRAD/CAPNBRAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
